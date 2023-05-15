@@ -3,4 +3,4 @@ DevLab Course(✓)
 Lunch(✓)
 Bike Ride(✓)
 Dinner(✓)
-Skin Care Routine
+Skin Care Routine(✓)
