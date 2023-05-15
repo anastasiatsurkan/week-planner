@@ -2,5 +2,5 @@ Breakfast(✓)
 DevLab Course(✓)
 Lunch(✓)
 Bike Ride(✓)
-Dinner
+Dinner(✓)
 Skin Care Routine
