@@ -1,4 +1,4 @@
 Breakfast(✓)
 Work(✓)
-Dinner
+Dinner(✓)
 Skin Care Routine
