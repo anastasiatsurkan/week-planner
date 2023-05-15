@@ -1,6 +1,6 @@
 Breakfast(✓)
 DevLab Course(✓)
-Lunch
+Lunch(✓)
 Bike Ride
 Dinner
 Skin Care Routine
