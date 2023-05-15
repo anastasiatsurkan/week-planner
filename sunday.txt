@@ -1,5 +1,5 @@
 Breakfast(✓)
-DevLab Course
+DevLab Course(✓)
 Lunch
 Bike Ride
 Dinner
