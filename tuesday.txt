@@ -1,6 +1,6 @@
 Work(✓)
 Lunch(✓)
-Journal
+Journal(✓)
 Bike Ride
 Dinner
 Skin Care Routine
