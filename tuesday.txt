@@ -3,4 +3,4 @@ Lunch(✓)
 Journal(✓)
 Bike Ride(✓)
 Dinner(✓)
-Skin Care Routine
+Skin Care Routine(✓)
