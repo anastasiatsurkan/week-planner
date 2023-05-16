@@ -2,5 +2,5 @@ Work(✓)
 Lunch(✓)
 Journal(✓)
 Bike Ride(✓)
-Dinner
+Dinner(✓)
 Skin Care Routine
