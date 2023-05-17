@@ -1,4 +1,4 @@
-Work
-Lunch
+Work(✓)
+Lunch(✓)
 Call
 Dinner
