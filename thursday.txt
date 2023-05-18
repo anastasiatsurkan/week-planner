@@ -3,4 +3,4 @@ Work(✓)
 Lunch(✓)
 Team Building(✓)
 Dinner(✓)
-Skin Care 
+Skin Care(✓) 
