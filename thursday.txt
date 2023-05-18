@@ -1,6 +1,6 @@
 Breakfast(✓)
 Work(✓)
-Lunch
-Team Building
+Lunch(✓)
+Team Building(✓)
 Dinner
 Skin Care 
