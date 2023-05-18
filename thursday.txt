@@ -1,5 +1,5 @@
 Breakfast(✓)
-Work
+Work(✓)
 Lunch
 Team Building
 Dinner
