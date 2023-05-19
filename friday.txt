@@ -1,6 +1,6 @@
 Breakfast(✓)
 Work(✓)
 Export(✓)
-Walk
+Walk(✓)
 Dinner
 Movie
