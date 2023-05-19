@@ -2,5 +2,5 @@ Breakfast(✓)
 Work(✓)
 Export(✓)
 Walk(✓)
-Dinner
-Movie
+Dinner(✓)
+Movie(✓)
