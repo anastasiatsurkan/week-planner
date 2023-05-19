@@ -1,0 +1,6 @@
+Breakfast(✓)
+Work(✓)
+Export(✓)
+Walk(✓)
+Dinner(✓)
+Movie(✓)
