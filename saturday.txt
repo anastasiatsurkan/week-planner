@@ -1,4 +1,4 @@
 Breakfast(✓)
 Walk(✓)
 Complete the last DevLab task(✓)
-Barbeque with our friends
+Barbeque with our friends(✓)
